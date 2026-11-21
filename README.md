@@ -5,13 +5,22 @@ Use an M5Stack to monitor your multifuel stove's temperature on screen and on a 
 <img width="985" height="381" alt="image" src="https://github.com/user-attachments/assets/c4f7cb2d-2a2b-43f2-99ab-5ed5614d209b" />
 <img width="984" height="1006" alt="image" src="https://github.com/user-attachments/assets/36d1717c-ee8c-4132-ad0c-db29959f1720" />
 
+These are my notes ... for my records, you are responsible for your actions, think every step through for yourself ! 
+
+If you are to dim to take responsibility for your own actions and choices please turn of your computer, unplug it and never return to the internet again. 
+
 **Hardware I used**
 
-I based mine on the M5Stack Core2 ESP kit, (£39)
+I based mine on the M5Stack Core2 ESP kit, (£39) 
+
 https://thepihut.com/products/m5stack-core2-v1-3-esp32 
+
 M5Stack DualKmeter Module 13.2 (£22)
+
 https://thepihut.com/products/dual-dualkmeter-module-13-2-max31855 
+
 Wall mount kit (£2) 
+
 https://thepihut.com/products/dual-dualkmeter-module-13-2-max31855 
 
 A left over USB Charger to power the Core2
